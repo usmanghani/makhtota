@@ -1,0 +1,1 @@
+print 'aabbabcabdabe'.split('ab')
